@@ -2,11 +2,11 @@
 
 Прохождение 8-ми частей практического урока https://docs.docker.com/get-started/
 
-### Part 3
+### Part 3 - Share the application
 
 Loaded image to https://hub.docker.com/repository/docker/rivgar/getting-started/general
 
-### Part 4
+### Part 4 - Persist the DB
 
 docker volume create todo-db
 
